@@ -156,8 +156,7 @@ This section provides a step-by-step guide to setting up and using the GitHub ag
 
 5. Set your GitHub token as an environment variable:
    ```bash
-   export GITHUB_TOKEN=your_github_token_here
-   ```
+   export GITHUB_TOKEN=REDACTED   ```
 
 6. Run the agent:
    ```bash
