@@ -6,7 +6,6 @@ This module contains helper functions that complement the main calculator module
 
 from typing import List, Optional
 
-API_KEY="ALKDSHJLAFHFIUDSr"
 
 def format_number(num: float, decimals: int = 2) -> str:
     """
